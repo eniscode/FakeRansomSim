@@ -1,5 +1,5 @@
 # Fake Ransomware Simulation & Detection
-![Dosyaların Bloklanması](<img src="https://github.com/user-attachments/assets/a154f717-8e36-40ba-9221-f745a021fa63" />)
+![Dosyaların Bloklanması](https://github.com/user-attachments/assets/a154f717-8e36-40ba-9221-f745a021fa63" )
 
 Bu proje, fidye yazılımı davranışlarını **zararsız bir şekilde** simüle eder ve Sysmon ile tespit edilmesini gösterir.
 
