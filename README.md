@@ -1,4 +1,6 @@
 # Fake Ransomware Simulation & Detection
+![Dosyaların Bloklanması](<img width="664" height="533" alt="image" src="https://github.com/user-attachments/assets/a154f717-8e36-40ba-9221-f745a021fa63" />
+)
 
 Bu proje, fidye yazılımı davranışlarını **zararsız bir şekilde** simüle eder ve Sysmon ile tespit edilmesini gösterir.
 
@@ -22,3 +24,4 @@ powershell -ExecutionPolicy Bypass -File .\fake_ransom_safe.ps1 -Folder "C:\Test
 
 # Sysmon konfigürasyonunu yükleme
 .\Sysmon64.exe -c .\sysmon_config.xml
+
