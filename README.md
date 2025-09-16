@@ -1,5 +1,6 @@
 # Fake Ransomware Simulation & Detection
-![image](https://github.com/user-attachments/assets/216fb68c-77ad-453b-b77d-23755cb179b9)
+![image](<img width="664" height="533" alt="image" src="https://github.com/user-attachments/assets/cba01c98-69ab-41ba-a19d-63b2561b3995" />
+)
 Bu proje, fidye yazılımı davranışlarını **zararsız bir şekilde** simüle eder ve Sysmon ile tespit edilmesini gösterir.
 
 ## 🔴 Red Team
